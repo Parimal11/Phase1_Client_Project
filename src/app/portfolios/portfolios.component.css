@@ -1,0 +1,8 @@
+/* Styles specific to the portfolios component */
+h2 {
+    color: #007bff;
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
